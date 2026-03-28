@@ -6,7 +6,7 @@
 
 **Caption AI** is a professional-grade, local-first video captioning engine. It autonomously generates millisecond-accurate, context-aware subtitles for videos in **Bengali, English, Hindi, and Hinglish**.
 
-> *"System শুধু ঠিক না — পরিস্থিতি বুঝে best decision নেয়" (The system isn't just correct—it understands the context and makes the best decision).*
+> *"The system isn't just correct—it understands the context and makes the best decision."*
 
 ---
 
