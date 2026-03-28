@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+storage/
+logs/
+uvicorn_log.txt
+logs.txt
+nvidia_smi_output.txt
+.vscode/
+node_modules/
+dist/
+.DS_Store
